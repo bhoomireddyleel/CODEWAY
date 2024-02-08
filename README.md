@@ -1,4 +1,4 @@
 CODEWAY TASKS
-TASK1:POrtfolio
-Task2:Baic Calculator
+TASK1:Portfolio 
+Task2:Basic Calculator
 Task3:Landing page
